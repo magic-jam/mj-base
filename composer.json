@@ -1,0 +1,15 @@
+{
+    "name": "magic-jam/mj-base",
+    "description": "Magic Jam base library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jason Frame",
+            "email": "jason@onehackoranother.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["lib/"]
+    }
+}
