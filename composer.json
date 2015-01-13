@@ -1,6 +1,8 @@
 {
     "name": "magic-jam/mj-base",
     "description": "Magic Jam base library",
+    "homepage": "http://github.com/magic-jam/mj-base",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
